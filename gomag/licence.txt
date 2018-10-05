@@ -3,6 +3,7 @@
 
 Template Name: Gomag
 File: Licence
+Owner:Bibin aka Guruji
 Author: OS Templates
 Author URI: http://www.os-templates.com/
 Licence URI: http://www.os-templates.com/template-terms
